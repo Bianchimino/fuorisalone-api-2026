@@ -13,46 +13,58 @@ def estrai_eventi():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         
-        # Aumentiamo il timeout a 60 secondi perché i server GitHub possono essere leggermente più lenti
         page.goto(url, wait_until="networkidle", timeout=60000)
 
         print("📜 Scorrimento della pagina...")
         last_height = page.evaluate("document.body.scrollHeight")
         while True:
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            page.wait_for_timeout(3000) # Pausa di 3 secondi
+            page.wait_for_timeout(3000)
             new_height = page.evaluate("document.body.scrollHeight")
             if new_height == last_height:
                 break
             last_height = new_height
 
-        # --- ECCO LA NUOVA PARTE PER LA FOTOGRAFIA ---
-        print("📸 Scatto una fotografia della pagina per debug...")
-        page.screenshot(path="debug_foto.png")
-        # ---------------------------------------------
-
-        print("🧠 Estrazione dati...")
+        print("🧠 Estrazione dati coi nuovi selettori...")
         soup = BeautifulSoup(page.content(), "html.parser")
-        event_cards = soup.select(".event-card") 
+        
+        # IL VERO NOME DELLA CARD TROVATO NELLO SCREENSHOT!
+        event_cards = soup.select(".event_box_item") 
 
         for card in event_cards:
             try:
-                badge_passaporto = card.select_one(".badge-fs-passport")
+                # Estrazione Titolo
+                titolo_elem = card.select_one(".item_related_title")
+                titolo = titolo_elem.get_text(strip=True) if titolo_elem else "Senza Titolo"
                 
+                # Estrazione Sottotitolo (probabilmente contiene zona/orari)
+                sub_elem = card.select_one(".item_related_subtitle")
+                sottotitolo = sub_elem.get_text(strip=True) if sub_elem else ""
+                
+                # Estrazione Immagine
+                img_elem = card.select_one(".item_related_cover img")
+                immagine = img_elem["src"] if img_elem and img_elem.has_attr("src") else ""
+                
+                # Estrazione Link Ufficiale (la card stessa è il link tag <a>)
+                link_ufficiale = card["href"] if card.has_attr("href") else ""
+                # Mettiamo in sicurezza il link nel caso fosse formattato male
+                if link_ufficiale.startswith("/"):
+                    link_ufficiale = "https://www.fuorisalone.it" + link_ufficiale
+
                 evento = {
-                    "titolo": card.select_one(".title").get_text(strip=True) if card.select_one(".title") else "Senza Titolo",
-                    "distretto": card.select_one(".district").get_text(strip=True) if card.select_one(".district") else "",
-                    "immagine": card.select_one("img")["src"] if card.select_one("img") else "",
-                    "link_ufficiale": "https://www.fuorisalone.it" + card.select_one("a")["href"] if card.select_one("a") else "",
-                    "accetta_fs_passport": True if badge_passaporto else False
+                    "titolo": titolo,
+                    "distretto": sottotitolo,
+                    "immagine": immagine,
+                    "link_ufficiale": link_ufficiale,
+                    "accetta_fs_passport": False # Metto false di default, vedremo in seguito se c'è un'icona speciale!
                 }
                 eventi_salvati.append(evento)
             except Exception as e:
-                pass # Ignora gli errori su card vuote o pubblicità
+                pass 
 
         browser.close()
 
-    print(f"✅ Trovati {len(eventi_salvati)} eventi.")
+    print(f"✅ BINGO! Trovati {len(eventi_salvati)} eventi.")
     with open("eventi_design_week_2026.json", "w", encoding="utf-8") as f:
         json.dump(eventi_salvati, f, indent=4, ensure_ascii=False)
 
