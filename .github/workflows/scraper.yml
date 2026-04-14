@@ -9,7 +9,7 @@ jobs:
   aggiorna-dati:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permette a GitHub di salvare il file JSON creato
+      contents: write # Permette a GitHub di salvare i file creati
 
     steps:
       - name: Scarica il codice
@@ -28,10 +28,11 @@ jobs:
       - name: Lancia lo Scraper
         run: python scraper.py
 
-      - name: Salva il file JSON aggiornato nel repository
+      - name: Salva i file aggiornati nel repository
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'action@github.com'
           git add eventi_design_week_2026.json
-          git commit -m "Aggiornamento automatico eventi Fuorisalone" || echo "Nessun nuovo evento da aggiornare"
+          git add debug_foto.png
+          git commit -m "Salvataggio dati e foto investigativa" || echo "Nessun nuovo evento da aggiornare"
           git push
