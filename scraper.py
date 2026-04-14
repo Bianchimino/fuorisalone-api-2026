@@ -4,11 +4,14 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 def estrai_eventi():
-    # URL base a cui aggiungeremo il numero della pagina alla fine
     url_base = "https://www.fuorisalone.it/it/2026/eventi/lista?page="
     eventi_salvati = []
-
-    print("🚀 Avvio Scraper a Paginazione Multipla su GitHub...")
+    
+    # --- LA NOVITÀ: UN MEMOTRACKER PER I DOPPIONI ---
+    link_visti = set() 
+    # ------------------------------------------------
+    
+    print("🚀 Avvio Scraper Anti-Duplicati su GitHub...")
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -16,22 +19,19 @@ def estrai_eventi():
         page = context.new_page()
         
         numero_pagina = 1
-        max_pagine = 50 # Un limite di sicurezza per non ciclare all'infinito (circa 1800 eventi)
+        max_pagine = 50
         
         while numero_pagina <= max_pagine:
             url_corrente = f"{url_base}{numero_pagina}"
-            print(f"🌍 Esplorazione Pagina {numero_pagina}: {url_corrente}")
+            print(f"🌍 Esplorazione Pagina {numero_pagina}...")
             
             try:
                 page.goto(url_corrente, wait_until="networkidle", timeout=60000)
             except Exception as e:
-                print(f"Errore caricamento pagina {numero_pagina}. Mi fermo qui.")
+                print(f"Errore caricamento. Mi fermo qui.")
                 break
 
-            # Lasciamo 2 secondi di respiro per far caricare bene le immagini
             page.wait_for_timeout(2000)
-
-            print(f"🧠 Estrazione dati da Pagina {numero_pagina}...")
             soup = BeautifulSoup(page.content(), "html.parser")
             event_cards = soup.select(".event_box_item") 
 
@@ -40,10 +40,16 @@ def estrai_eventi():
             for card in event_cards:
                 try:
                     link_raw = card["href"] if card.has_attr("href") else ""
-                    
-                    # IGNORIAMO IL PULSANTE FALSO: Se il link contiene "page=", lo saltiamo!
                     if "?page=" in link_raw or "&page=" in link_raw:
                         continue
+
+                    link_ufficiale = link_raw if link_raw.startswith("http") else "https://www.fuorisalone.it" + link_raw
+
+                    # --- CONTROLLO ANTI-DOPPIONI ---
+                    if link_ufficiale in link_visti:
+                        continue # Se lo abbiamo già visto, salta direttamente al prossimo!
+                    link_visti.add(link_ufficiale) # Aggiungilo alla memoria
+                    # -------------------------------
 
                     tit_elem = card.select_one(".item_related_title")
                     titolo = tit_elem.get_text(strip=True) if tit_elem else "Senza Titolo"
@@ -54,8 +60,6 @@ def estrai_eventi():
                     img_elem = card.select_one(".item_related_cover img")
                     immagine = img_elem["src"] if img_elem and img_elem.has_attr("src") else ""
                     
-                    link_ufficiale = link_raw if link_raw.startswith("http") else "https://www.fuorisalone.it" + link_raw
-
                     accetta_passport = False
                     if card.select_one(".fs_label") or "passport" in card.get_text().lower():
                         accetta_passport = True
@@ -72,19 +76,18 @@ def estrai_eventi():
                 except:
                     continue 
 
-            print(f"✅ Trovati {eventi_veri_in_questa_pagina} eventi in questa pagina.")
+            print(f"✅ Trovati {eventi_veri_in_questa_pagina} eventi unici in questa pagina.")
 
-            # Se la pagina è vuota (0 eventi estratti), significa che siamo arrivati all'ultima pagina del sito!
-            if eventi_veri_in_questa_pagina == 0:
-                print("🏁 Pagine terminate! Nessun nuovo evento trovato.")
+            if eventi_veri_in_questa_pagina == 0 and len(soup.select(".event_box_item")) == 0:
+                print("🏁 Pagine terminate!")
                 break
 
             numero_pagina += 1
-            time.sleep(1) # Pausa gentile verso il server prima di aprire la pagina successiva
+            time.sleep(1)
 
         browser.close()
 
-    print(f"🎉 TRAGUARDO RAGGIUNTO! Salvati {len(eventi_salvati)} eventi in totale.")
+    print(f"🎉 TRAGUARDO! Salvati {len(eventi_salvati)} eventi UNICI.")
     with open("eventi_design_week_2026.json", "w", encoding="utf-8") as f:
         json.dump(eventi_salvati, f, indent=4, ensure_ascii=False)
 
