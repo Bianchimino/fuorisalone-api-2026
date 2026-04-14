@@ -6,19 +6,18 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 def estrai_e_invia():
-    # 1. Recupera le credenziali segrete da GitHub
     webhook_url = os.environ.get("WEBHOOK_URL")
     api_key = os.environ.get("SCRAPER_API_KEY")
 
     if not webhook_url or not api_key:
-        print("❌ Errore: Variabili d'ambiente mancanti. Configura i Secrets su GitHub!")
+        print("❌ Errore: Variabili d'ambiente mancanti.")
         return
 
     url_base = "https://www.fuorisalone.it/it/2026/eventi/lista?page="
     eventi_salvati = []
     link_visti = set() 
     
-    print("🚀 Avvio Scraper Finale (Estrazione + API Push)...")
+    print("🚀 Avvio Scraper 'Deep Dive' (Recupero Descrizioni)...")
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -58,10 +57,10 @@ def estrai_e_invia():
                     tit_elem = card.select_one(".item_related_title")
                     titolo = tit_elem.get_text(strip=True) if tit_elem else "Senza Titolo"
                     
+                    # --- FIX: AGGIUNTO IL SEPARATORE PER LE CATEGORIE APPICCICATE ---
                     sub_elem = card.select_one(".item_related_subtitle")
-                    sottotitolo = sub_elem.get_text(strip=True) if sub_elem else ""
+                    sottotitolo = sub_elem.get_text(separator=" • ", strip=True) if sub_elem else ""
                     
-                    # --- ESTRAZIONE IMMAGINI CORRETTA ---
                     immagine = ""
                     img_box = card.select_one(".imgbox")
                     if img_box and img_box.has_attr("style"):
@@ -73,18 +72,33 @@ def estrai_e_invia():
                                 immagine = "https:" + raw_img
                             else:
                                 immagine = raw_img
-                    # ------------------------------------
                     
                     accetta_passport = False
                     if card.select_one(".fs_label") or "passport" in card.get_text().lower():
                         accetta_passport = True
+
+                    # --- NOVITÀ: ENTRA NELLA PAGINA E PRENDI LA DESCRIZIONE ---
+                    descrizione = ""
+                    try:
+                        # Fa una richiesta invisibile e velocissima alla pagina dell'evento
+                        d_resp = requests.get(link_ufficiale, timeout=5)
+                        if d_resp.status_code == 200:
+                            d_soup = BeautifulSoup(d_resp.text, "html.parser")
+                            # Cerca il riassunto ufficiale della pagina
+                            meta_desc = d_soup.select_one('meta[name="description"]')
+                            if meta_desc and meta_desc.has_attr("content"):
+                                descrizione = meta_desc["content"]
+                    except:
+                        pass # Se la pagina ci mette troppo, salta e vai oltre
+                    # ----------------------------------------------------------
 
                     evento = {
                         "titolo": titolo,
                         "distretto": sottotitolo,
                         "immagine": immagine,
                         "link_ufficiale": link_ufficiale,
-                        "accetta_fs_passport": accetta_passport
+                        "accetta_fs_passport": accetta_passport,
+                        "descrizione": descrizione # Nuovo campo inviato!
                     }
                     eventi_salvati.append(evento)
                     eventi_veri += 1
@@ -101,7 +115,6 @@ def estrai_e_invia():
 
         browser.close()
 
-    # 2. INVIO AL DATABASE TRAMITE API
     print(f"🚀 Preparazione invio di {len(eventi_salvati)} eventi al database Lovable...")
 
     headers = {
@@ -112,12 +125,11 @@ def estrai_e_invia():
     try:
         response = requests.post(webhook_url, headers=headers, json=eventi_salvati)
         if response.status_code == 200:
-            print(f"✅ Successo Assoluto! Il database ha risposto: {response.text}")
+            print(f"✅ Successo! Il database ha risposto: {response.text}")
         else:
             print(f"❌ Errore durante l'invio. Status: {response.status_code}")
-            print(f"Dettagli: {response.text}")
     except Exception as e:
-        print(f"⚠️ Errore di connessione al Webhook: {e}")
+        print(f"⚠️ Errore di connessione: {e}")
 
 if __name__ == "__main__":
     estrai_e_invia()
