@@ -26,6 +26,11 @@ def estrai_eventi():
                 break
             last_height = new_height
 
+        # --- ECCO LA NUOVA PARTE PER LA FOTOGRAFIA ---
+        print("📸 Scatto una fotografia della pagina per debug...")
+        page.screenshot(path="debug_foto.png")
+        # ---------------------------------------------
+
         print("🧠 Estrazione dati...")
         soup = BeautifulSoup(page.content(), "html.parser")
         event_cards = soup.select(".event-card") 
