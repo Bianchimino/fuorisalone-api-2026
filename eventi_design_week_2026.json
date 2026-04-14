@@ -1,1 +1,261 @@
-[]
+[
+    {
+        "titolo": "BEYOND THE KNOWN",
+        "distretto": "SelectedCUPRA Garage Milano - Corso Como, 120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6683/BEYOND-THE-KNOWN",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Y.O.U. Your Own Universe",
+        "distretto": "SelectedPalazzo Moscova - Via Moscova, 1820-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6413/YOU-Your-Own-Universe",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "The Nature of Time",
+        "distretto": "SelectedArtFashion and jewelsInstallationsSpecial materialsTechnologyGalleria Il Castello - Via Brera, 1620-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6402/The-Nature-of-Time",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Rimadesio presents BECOMING",
+        "distretto": "SelectedArchitectureFurnitureArtProduct DesignTechnologyPalazzo Isimbardi - Corso Monforte, 3521-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6653/Rimadesio-presents-BECOMING",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Albori",
+        "distretto": "SelectedArchitectureArtLightingInstallationsTechnologySala dei Pilastri | Castello Sforzesco - Piazza Castello20-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6662/Albori",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Chasing the Sun",
+        "distretto": "SelectedArchitectureConferences, workshopsFood & beverageInstallationsProduct DesignMediateca Santa Teresa - Via Moscova, 2820-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6469/Chasing-the-Sun",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "0-99. Design per gioco",
+        "distretto": "SelectedGames, toysGraphic DesignProduct DesignPalazzo Arese Borromeo - Via Borromeo, 41, Cesano Maderno20-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/7240/0-99-Design-per-gioco",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "ArchiThoughts-ArchiTouch",
+        "distretto": "SelectedFS PassportArchitectureFurnitureInstallationsProduct DesignFENIX® Scenario - Foro Buonaparte, 6620-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6663/ArchiThoughts-ArchiTouch",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Crafting Forward. Rooted in craftsmanship, driven by experimentation, defined by innovation",
+        "distretto": "SelectedFS PassportArchitectureKitchenSpecial materialsProduct DesignSustainabilityValcucine Milano Brera - Corso Giuseppe Garibaldi, 9920-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6384/Crafting-Forward-Rooted-in-craftsmanship-driven-by-experimentation-defined-by-innovation",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Blooming Imperfections – Relationships in Progress",
+        "distretto": "SelectedArchitectureArtFood & beverageInstallationsSustainabilityPiazza Gae Aulenti 12 - Piazza Gae Aulenti, 1220-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6468/Blooming-Imperfections-Relationships-in-Progress",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "New visions of living and design",
+        "distretto": "SelectedFurnitureKitchenFood & beverageProduct DesignTechnologySmeg Flagship Store - Via della Moscova, 5820-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6328/New-visions-of-living-and-design",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Rooms for Stories. From Seat to Seed.",
+        "distretto": "FS PassportFurnitureArtInstallationsSpecial materialsProduct DesignKave Home - Via Santa Margherita, 1020-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6400/Rooms-for-Stories-From-Seat-to-Seed",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "GROHE SPA Aqua Sanctuary",
+        "distretto": "SelectedBathroomInstallationsProduct DesignPiccolo Teatro Studio Melato - Via Rivoli, 622-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6433/GROHE-SPA-Aqua-Sanctuary",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "La Casa di Marmo",
+        "distretto": "SelectedArchitectureArtInstallationsSpecial materialsProduct DesignSpazio Cernaia - Via Cernaia, 120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6475/La-Casa-di-Marmo",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "UNFOLD 2026",
+        "distretto": "SelectedArchitectureConferences, workshopsProduct DesignSustainabilityTechnologyBASE Milano - Via Bergognone 3420-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6586/UNFOLD-2026",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Ooooh, that’s EpiQ!",
+        "distretto": "SelectedArchitectureArtConferences, workshopsInstallationsProduct DesignPalazzo Senato - Via Senato, 1020-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6626/Ooooh-thats-EpiQ",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Flow. Form. Function.",
+        "distretto": "SelectedArchitectureArtBathroomInstallationsProduct DesignGeberit Experience Center - Via Tortona 3120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6629/Flow-Form-Function",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "HARDCORE – the installation by Hannes Peer for SEM unveiling the new collection CORE.",
+        "distretto": "SelectedArchitectureFurnitureArtSpecial materialsProduct DesignSpotti Milano - viale Piave, 2720-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6632/HARDCORE-the-installation-by-Hannes-Peer-for-SEM-unveiling-the-new-collection-CORE",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Food For Thought",
+        "distretto": "SelectedFurnitureConferences, workshopsFood & beverageInstallationsProduct DesignSpazio Maiocchi - Via A. Maiocchi, 721-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6643/Food-For-Thought",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "DESIGN IN MOTION - A Design Week Experience with Rossocorsa",
+        "distretto": "SelectedArchitectureFurnitureArtExteriorsLightingBI.CI. Progetti e Arredamento - Via Della Spiga, 920-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6650/DESIGN-IN-MOTION-A-Design-Week-Experience-with-Rossocorsa",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "BECOMING | The evolution of the Rimadesio collection",
+        "distretto": "ArchitectureFurnitureArtProduct DesignSustainabilityRimadesio Showroom - Via Uberto Visconti Di Modrone, 2625-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6651/BECOMING-The-evolution-of-the-Rimadesio-collection",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Outdoor Stories",
+        "distretto": "SelectedFurnitureExteriorsProduct DesignSustainabilityFast Milano - Via C.Battisti 1, angolo Corridoni20-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6816/Outdoor-Stories",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Swatch AI-DADA Lab Milan",
+        "distretto": "SelectedArtFashion and jewelsOpificio 31 - Via Tortona, 3120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6839/Swatch-AI-DADA-Lab-Milan",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Design is an Act of Love",
+        "distretto": "SelectedProduct DesignTechnologySuperstudio+ - Via Tortona, 2720-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6849/Design-is-an-Act-of-Love",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "INSIDE. Beauty comes from within",
+        "distretto": "SelectedArchitectureFurnitureInstallationsProduct DesignLinea Lombardo - Via Paolo da Cannobio 220-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6858/INSIDE-Beauty-comes-from-within",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "LOUNGE.60 | THE RETURN OF THE BAR CABINET | MDW2026 PREVIEW",
+        "distretto": "SelectedArchitectureFurnitureArtFood & beverageProduct DesignAtelier Mario Arlati - Via Alberto Nota 4622-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6870/LOUNGE60-THE-RETURN-OF-THE-BAR-CABINET-MDW2026-PREVIEW",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Evolutionary Design. The shape of Meraviglia",
+        "distretto": "FurnitureInstallationsProduct DesignSustainabilityADI Design Museum - Piazza Compasso d'Oro 120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6876/Evolutionary-Design-The-shape-of-Meraviglia",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Unfold Stories - From Paper to Steel",
+        "distretto": "SelectedInstallationsProduct DesignTechnologyTorneria Tortona - via Tortona, 3220-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6896/Unfold-Stories-From-Paper-to-Steel",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Conference “From Project to Project”",
+        "distretto": "SelectedArchitectureConferences, workshopsInstallationsPartyProduct DesignCamperio Business Park - Via Manfredo Camperio, 4B20-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/7284/Conference-From-Project-to-Project",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "The Shape of Silence",
+        "distretto": "ArchitectureInstallationsProduct DesignTextilesPalazzo Bocconi - Corso Venezia 4821-25 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6297/The-Shape-of-Silence",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "LIEBHERR EXPERIENCE SHOWROOM",
+        "distretto": "ArchitectureKitchenProduct DesignSustainabilityTechnologyHotel Rosa Grand Piazza Fontana - Piazza Fontana, 320-24 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6305/LIEBHERR-EXPERIENCE-SHOWROOM",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Haus of Automotive",
+        "distretto": "Conferences, workshopsExteriorsSpecial materialsProduct DesignTechnologyTalent House - Via Tortona, 3120-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6315/Haus-of-Automotive",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "MONO-SOLUM",
+        "distretto": "FurnitureArtInstallationsSpecial materialsSustainabilityBiblioteca Ostinata - Via Osti 620-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6321/MONO-SOLUM",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "ArchiTexturExpo",
+        "distretto": "FS PassportArchitectureFurnitureConferences, workshopsInstallationsProduct DesignFondazione Luciana Matalon - Foro Buonaparte, 6720-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6334/ArchiTexturExpo",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "ARTISTRY",
+        "distretto": "ArchitectureFurnitureKitchenExteriorsProduct DesignModulnova Milano - Corso Garibaldi, 9920-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6335/ARTISTRY",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "HONSHITSUTEKI (本質的) | Dieffebi: The Essence of Form",
+        "distretto": "FS PassportFurnitureProduct DesignSustainabilityDieffebi - Via Milazzo, 821-26 April  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/6337/HONSHITSUTEKI-本質的-Dieffebi-The-Essence-of-Form",
+        "accetta_fs_passport": false
+    },
+    {
+        "titolo": "Senza Titolo",
+        "distretto": "",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/en/2026/events/list?&page=2",
+        "accetta_fs_passport": false
+    }
+]
