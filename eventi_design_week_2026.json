@@ -2758,6 +2758,13 @@
         "accetta_fs_passport": true
     },
     {
+        "titolo": "SATATECA presenta: BECCODOCA",
+        "distretto": "ArteInstallazioniProduct DesignSATATECA - Via Alessandro Tadino, 326 Aprile  2026",
+        "immagine": "",
+        "link_ufficiale": "https://www.fuorisalone.it/it/2026/eventi/7341/SATATECA-presenta-BECCODOCA",
+        "accetta_fs_passport": true
+    },
+    {
         "titolo": "HOFSTEDE RAANHUIS SUPERIOR COLLECTION ''SARAY'' BY HOESHMAND",
         "distretto": "Palazzo Giureconsulti - Piazza dei Mercanti, 220-25 Aprile  2026",
         "immagine": "",
@@ -2905,13 +2912,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Progettare per Esistere",
-        "distretto": "ArteModa e gioielliIlluminazioneInstallazioniProduct DesignKUUN AGENCY - Via Copernico 820-23 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "MASTERLY the Dutch in Milano Urna Unica by Lido Ceramics",
         "distretto": "ArteProduct DesignPalazzo Giureconsulti - Piazza dei Mercanti, 221-26 Aprile  2026Link",
         "immagine": "",
@@ -2979,13 +2979,6 @@
         "distretto": "ArteIlluminazioneInstallazioniPartySostenibilitàPalazzo Giureconsulti - Piazza dei Mercanti, 220-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://blokplaatmateriaal.nl/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "sotto la stilografica, la lettera asemica",
-        "distretto": "ArteGraficaInstallazioniProduct DesignCaratteri Asemici - Via Val Bregaglia, 420-21, 23-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3108,34 +3101,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Good Design Cities by Massimiliano Mandarini",
-        "distretto": "Product DesignSostenibilitàADI Design Museum - Piazza Compasso d'Oro 121 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.adidesignmuseum.org/eventi/adi-design-week-2026/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "DBEW Design Award 2026",
-        "distretto": "Product DesignADI Design Museum - Piazza Compasso d'Oro 121 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.adidesignmuseum.org/eventi/adi-design-week-2026/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Oluce, 80 anni di luce a Milano",
-        "distretto": "ArredoIlluminazioneProduct DesignADI Design Museum - Piazza Compasso d'Oro 123 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.adidesignmuseum.org/eventi/adi-design-week-2026/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Inaugurazione dello show room",
-        "distretto": "Tribute Deco Showroom - via Benvenuto Cellini 21",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "New Collection 2026 e Giulio Cappellini & Flaminia: una storia italiana",
         "distretto": "ArchitetturaArredoBagnoIlluminazioneProduct DesignCeramica Flaminia - Via Solferino, 1820-26 Aprile  2026Link",
         "immagine": "",
@@ -3171,13 +3136,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Caducitè",
-        "distretto": "ArteInstallazioniProduct DesignCivico 37 - Via Alessandro Minuziano 3723 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "MASTERLY the Dutch in Milano Stoksel Furniture Design",
         "distretto": "ArredoArteProduct DesignPalazzo Giureconsulti - Piazza dei Mercanti, 220-26 Aprile  2026Link",
         "immagine": "",
@@ -3210,13 +3168,6 @@
         "distretto": "ArchitetturaArteInstallazioniMateriali specialiTecnologiaCivico 37 - Via Alessandro Minuziano 3720-24 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.pietrocatarinella.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Civico 37 - fabbrica dei suoni - Michele Benuzzi - concerto e clavicembali",
-        "distretto": "ArteInstallazioniCivico 37 - Via Alessandro Minuziano 3723 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3283,13 +3234,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Un momento di assenza",
-        "distretto": "ArredoIlluminazioneInstallazioniPartyProduct DesignVia Filippino Lippi, 10 - Via Filippino Lippi, 1021-23 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "New Life @ ArchiTexturExpo: \"La profondità del fare\".",
         "distretto": "ArredoInstallazioniProduct DesignSostenibilitàMuseo Fondazione Luciana Matalon - Foro Buonaparte, 6720-26 Aprile  2026Link",
         "immagine": "",
@@ -3301,13 +3245,6 @@
         "distretto": "BagnoVERGARI SHOWROOM - VIA LOVANIO 520-25 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.idral.it/it/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "3LOGY PROJECT: EPIS, MONTANARO, PAULON",
-        "distretto": "ArchitetturaArteGraficaIlluminazioneProduct DesignLaruffa Bottinelli Avvocati Associati - Via Malpighi, 420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3392,13 +3329,6 @@
         "distretto": "ArredoPalazzo Giureconsulti - Piazza dei Mercanti, 220-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://bertplantagie.com",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Cose turche Gastronomia Bistrot incontra la Fabrika ceramica",
-        "distretto": "Food & beverageInstallazioniCose Turche Gastronomia - Via Daniele Crespi 1121-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3577,13 +3507,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "meet by JooHyun Lee, Balance Objects",
-        "distretto": "ArredoInstallazioniMateriali specialiProduct DesignSostenibilitàMOSCAPARTNERS VARIATIONS, Palazzo Litta - Corso Magenta 2420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "MV Line, Sunflower di Giulio Iacchetti",
         "distretto": "ArredoEsterniInstallazioniProduct DesignTecnologiaMOSCAPARTNERS VARIATIONS, Palazzo Litta - Corso Magenta 2420-26 Aprile  2026Link",
         "immagine": "",
@@ -3738,24 +3661,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Al Fuorisalone il fulmine diventa arte: Alê Jordão presenta “Lightning Bolt Neon”",
-        "distretto": "ArchitetturaArteIlluminazioneInstallazioniMateriali specialiResidenza Vignale - Via Enrico Toti, 220-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.instagram.com/alejordao_art/",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "OVER AND OVER AND OVER AND OVER  di 6:AM",
         "distretto": "ArchitetturaArredoIlluminazioneInstallazioniProduct DesignPiscina Romano - Via Ampère, 2420-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://6am.glass/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "CHAOSMOS - EVA",
-        "distretto": "ArchitetturaArredoArteInstallazioniTessiliBASE Milano - Via Bergognone 3420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3770,20 +3679,6 @@
         "distretto": "CucinaMarchi Cucine Store - Viale Umbria 8521-24 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://marchicucine.it/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "BLEND",
-        "distretto": "CucinaModa e gioielliFood & beverageInstallazioniProduct DesignC.P. COMPANY SHOWROOM - Via Fiamma, 1821-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "IDRAL SPA AL FUORI SALONE 2026 CON LA COLLEZIONE DI COLONNE DOCCIA OUTDOOR INOX316L",
-        "distretto": "BagnoEsterniSostenibilitàVERGARI SHOWROOM - VIA LOVANIO 5",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3829,13 +3724,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "And now, KRISTALIA with Volumeuno",
-        "distretto": "ArchitetturaArredoArteCucinaInstallazioniHOUSE OF FINEMATERIA - Via Cadibona, 921-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Herberia: dare forma alle idee",
         "distretto": "ArredoBagnoMARTAGOGGI SHOWROOM - VIA CERVA 1420-25 Aprile  2026Link",
         "immagine": "",
@@ -3847,13 +3735,6 @@
         "distretto": "ArchitetturaConferenze, workshopGraficaProduct DesignSETZ | fix your idea - viale Toscana 12A21-25 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.setz.it/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "The Disassemblable Beauty Tool: Design Circolare nella Cosmesi",
-        "distretto": "Materiali specialiSostenibilitàTecnologiaAngolo Kappa - Via Federico Ozanam, 1320-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -3941,13 +3822,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Future Craft: Contemporary Design Expressions",
-        "distretto": "ArteModa e gioielliGraficaInstallazioniProduct DesignMA-EC Gallery - Via Santa Maria Valle, 222-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Reimagining Beauty",
         "distretto": "ArchitetturaArredoInstallazioniProduct DesignTecnologiashowroom Porro Milano - via Visconti di Modrone 2920-26 Aprile  2026Link",
         "immagine": "",
@@ -3990,13 +3864,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "SOLIDIFIED: from matter to form",
-        "distretto": "ArredoArteConferenze, workshopIlluminazioneProduct DesignStudio Via Farini - Via Carlo Farini, 3520-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://solidified.thedots.nl/",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "GENERATION WEEK",
         "distretto": "ArchitetturaArteInstallazioniProduct DesignSostenibilitàBANCA INVESTIS - Via Broletto 525 Aprile  2026Link",
         "immagine": "",
@@ -4029,20 +3896,6 @@
         "distretto": "ArredoProduct Designisoipsa - via Lazzaro Papi 1820-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://isoipsa.com",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Bea's design selection",
-        "distretto": "ArredoModa e gioielliProduct DesignBea Bongiasca Boutique - Via Solferino, 2520-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ICOSAEDRO by Mario Botta",
-        "distretto": "ArchitetturaArredoEsterniInstallazioniADI Design Museum - Piazza Compasso d'Oro 1Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.adidesignmuseum.org/eventi/adi-design-week-2026/",
         "accetta_fs_passport": true
     },
     {
@@ -4221,24 +4074,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "HCOMM | Neurosensorialità applicata agli spazi per il benessere e miglioramento psicofisico e performance.",
-        "distretto": "ArchitetturaArredoConferenze, workshopProduct DesignTecnologiaC/O SuperStudio 13 - Via Vincenzo Forcella, 1321-23 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://hcomm.eu/it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "SOLIDIFIED - dalla materia alla forma",
         "distretto": "ArredoArteIlluminazioneInstallazioniProduct DesignSpazio VIAFARINI - Via Farini, 3521-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.instagram.com/solidified_fuorisalone/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Pelle e Parole: un bellissimo progetto",
-        "distretto": "ArredoArteInstallazioniMateriali specialiÀncora Store - Via Lodovico Pavoni, 1220-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -4260,13 +4099,6 @@
         "distretto": "ArredoArteCucinaInstallazioniCasa Brivio - Via Carlo Ottavio Cornaggia 1220-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://missing-objects.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Calma by Zara",
-        "distretto": "ArchitetturaArteInstallazioniPalazzina Appiani - Viale Giorgio Byron, 220-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -4295,13 +4127,6 @@
         "distretto": "ArchitetturaArredoArteInstallazioniProduct DesignERG MEDIA - Via Bernardino Luini 1220-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://erg.media",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Product highlights",
-        "distretto": "ArchitetturaArredoBagnoDuravit Showroom Milano - Via San Gregorio, 49/5120-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.duravit.com/duravit-milan-design-week",
         "accetta_fs_passport": true
     },
     {
@@ -4354,13 +4179,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "On Wall sceglie la sua casa Milanese: un indirizzo dove persona e spazio entrano in dialogo.",
-        "distretto": "ArchitetturaArredoSpazio Lorenzetto Milano - Via Garofalo 3420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "NO-EM x Robert Bronwasser",
         "distretto": "ArredoProduct DesignSostenibilitàTessiliPalazzo Giureconsulti - Piazza dei Mercanti, 220-26 Aprile  2026Link",
         "immagine": "",
@@ -4399,7 +4217,7 @@
         "titolo": "Mornings Made in Fornace",
         "distretto": "ArteConferenze, workshopInstallazioniMateriali specialiProduct DesignFornace Curti - Via Walter Tobagi, 820-24 Aprile  2026Link",
         "immagine": "",
-        "link_ufficiale": "https://madeinfornace.com/landing-page-rsvp-salone-2026/",
+        "link_ufficiale": "https://madeinfornace.com/mornings/",
         "accetta_fs_passport": true
     },
     {
@@ -4484,20 +4302,6 @@
         "distretto": "Triennale Milano - Via Alemagna, 6Link",
         "immagine": "",
         "link_ufficiale": "https://triennale.org/eventi/branzi-toyo-ito",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Lella and Massimo Vignelli. A Language of Clarity",
-        "distretto": "Triennale Milano - Via Alemagna, 6",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Edward Barber | Jay Osgerby. Alphabet",
-        "distretto": "Triennale Milano - Via Alemagna, 6",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -4648,20 +4452,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Emmanuel Babled - Synthetic Light",
-        "distretto": "InstallazioniCavallerizze - Via Olona 420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Elizabeth Lewis - Cosmic Meadow / Curated by Angela Da Silvia",
-        "distretto": "InstallazioniCavallerizze - Via Olona 420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Marcin Rusak - Forum Florum",
         "distretto": "InstallazioniSIAM 1838 - Società d’Incoraggiamento d’Arti e Mestieri - Via Santa Marta, 1820-26 Aprile  2026Link",
         "immagine": "",
@@ -4671,13 +4461,6 @@
     {
         "titolo": "Istituto Secoli presenta PVDD x ISTITUTO SECOLI (feat. Arthur Arbesser)",
         "distretto": "Moda e gioielliGraficaMateriali specialiTessiliISTITUTO SECOLI - VIALE VITTORIO VENETO 18A21-24 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://secoli.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Istituto Secoli presenta PVDD x ISTITUTO SECOLI (feat. Arthur Arbesser)",
-        "distretto": "Moda e gioielliGraficaMateriali specialiSostenibilitàTessiliTeatro Elfo Puccini - Corso Buenos Aires, 3321-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://secoli.com/",
         "accetta_fs_passport": true
@@ -4718,20 +4501,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Dinamica Live Atelier",
-        "distretto": "Moda e gioielliMateriali specialiProduct DesignSostenibilitàTessiliFLOW Milano - Piazza Borromeo 522-25 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it/it/2026/eventi/6826/dinamica-live-atelier",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Dinamica Live Atelier",
-        "distretto": "Moda e gioielliMateriali specialiProduct DesignSostenibilitàTessiliDebby Bar - Via Valparaiso 722-25 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it/it/2026/eventi/6826/dinamica-live-atelier",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "The Eccentrico Sensory Lab",
         "distretto": "ArredoBagnoMateriali specialiProduct DesignMalpighi 7 - Via Malpighi 920-26 Aprile  2026Link",
         "immagine": "",
@@ -4750,13 +4519,6 @@
         "distretto": "ArredoInstallazioniProduct DesignSostenibilitàTecnologiaSpazio Adatto - Viale Abruzzi 1320-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://ricktegelaar.nl/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ODA | Sketch Books",
-        "distretto": "ArteGraficaODA - VIa Malpighi 820-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -4893,13 +4655,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "RE:BRICK - Mostra internazionale di design",
-        "distretto": "ArchitetturaArredoInstallazioniProduct DesignDidart - Galleria d'arte - via Sant'Orsola 8/a20-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Wood in Motion: La natura fluida del vero legno - Xilowood",
         "distretto": "ArchitetturaArredoInstallazioniMateriali specialiOsart Gallery - Corso Plebisciti, 1222-25 Aprile  2026Link",
         "immagine": "",
@@ -4911,13 +4666,6 @@
         "distretto": "ArteConferenze, workshopModa e gioielliTessiliNumero Otto - Corso Venezia 5925-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://numerootto.com/it-it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "KIA presenta JOURNEY OF PROJECTION",
-        "distretto": "InstallazioniTecnologiaSalone dei Tessuti - Via San Gregorio, 2922-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -4942,90 +4690,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Brionvega al Fuorisalone",
-        "distretto": "ArchitetturaArredoInstallazioniPartyProduct DesignBredaquaranta - Via Fatebenefratelli, 1020-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ARKET presenta ARKET & Laila Gohar",
-        "distretto": "EsterniModa e gioielliInstallazioniTessiliGiardino delle Arti - via Palestro, 820-24 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Tessil2000 presenta Tra le Tende",
-        "distretto": "ArchitetturaArredoMateriali specialiProduct DesignTessiliVia Plinio 16 - Via Plinio 1620-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Dedar presenta Versi Liberi at Milan Design Week 2026",
-        "distretto": "ArredoGraficaInstallazioniMateriali specialiTessiliMaria Calderara Showroom - Via Lazzaretto 1521-25 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Studio Booboon presenta Fragments Becoming",
-        "distretto": "Spazio Milesi - Via Felice Casati, 2920-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Gaggenau presenta Presence",
-        "distretto": "ArredoCucinaInstallazioniMateriali specialiTecnologiaVilla Necchi Campiglio - Via Mozart, 1421-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Park presenta The Meanwhile Club",
-        "distretto": "Park Hub - Via Garofalo, 3120-24 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Spazio Viruly presenta UNBOXING: A Room as Instrument",
-        "distretto": "Superattico - Via Eustachi 4020-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "CASA FACILE presenta Magic Box",
-        "distretto": "Piazzale Lavater - Piazzale Lavater20-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Lorenzelli Arte presenta LORENZELLI | MASK, The Hidden Face",
-        "distretto": "ArteGraficaInstallazioniProduct DesignLorenzelli Arte - Corso Buenos Aires, 221-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "YALI LUCE presenta Window of Light",
-        "distretto": "ArteIlluminazioneInstallazioniMateriali specialiProduct DesignFonte Della Moda Di Monica Zanoncelli - Via Malpighi 1220-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Alimonti Milano presenta Medusa collection",
-        "distretto": "ArredoIlluminazioneMateriali specialiShowroom Alimonti Milano - Corso Venezia 5321-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "ABOUT: writing tools",
         "distretto": "Product DesignFIRM.GS - Via Vivarini 724 Aprile  2026Link",
         "immagine": "",
@@ -5040,20 +4704,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "MODULO by Miguel Reguero for KIARE",
-        "distretto": "ArredoArteModa e gioielliInstallazioniProduct DesignRoberto Festa Boutique - Corso Venezia 2120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Arcai – Spazio d’Arte, Ceramica & Mostra Collettiva",
-        "distretto": "ArteConferenze, workshopInstallazioniMateriali specialiProduct DesignATELIER DI CERAMICA - via felice casati 2620-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "VISIONI SCOMPOSTE | Marcella Bonfanti - Veronica Picelli - Ruben Spelta",
         "distretto": "ArteArchivio Iginio Balderi | Atelier Balderi - Via Ausonio, 2022-25 Aprile  2026Link",
         "immagine": "",
@@ -5061,59 +4711,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Tom Dixon AW26:The Mua Mua Hotel",
-        "distretto": "MUA MUA HOTEL - VIA AOSTA 221-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Paris Internationale arriva a Milano",
-        "distretto": "Palazzo Galbani - Via Fabio Filzi 2520-21 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Alcova 2026 / Villa Pestarini",
-        "distretto": "Villa Pestarini - Via Mogadiscio, 2/420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "TEN: The Evolving Now / Isola Design Gallery",
-        "distretto": "Fabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "War Rugs | The Nightmare of Modernism, the Exhibit.",
         "distretto": "ArteFood & beverageInstallazioniCONCESSIONARIA 23 - VIA MAIOCCHI, 2320-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "http://maiocchi23.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Prada Frames / In Sight",
-        "distretto": "Chiesa di Santa Maria delle Grazie - Via Caradosso, 120-21 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Il nuovo showroom Poliform Milano",
-        "distretto": "Ex Palazzo Trussardi - Piazza della Scala, 520-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Palazzo Filoni - By Cultural Heritage",
-        "distretto": "ArchitetturaArredoInstallazioniMateriali specialiProduct DesignPalazzo Arcivescovile - Piazza del Duomo 1620-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5149,13 +4750,6 @@
         "distretto": "ArteModa e gioielliProduct DesignTortona Gallery - Via Tortona 2020-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://bartonperreira.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Presenza Residua",
-        "distretto": "ArteInstallazioniATTERRAGE Gallery - Via Giambellino, 9820-21, 23, 25-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5208,45 +4802,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Chiedersì perché da Città del sole!",
-        "distretto": "Giochi, giocattoliInstallazioniProduct DesignCittà del sole - Corso Lodi, 320-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.cittadelsole.it/ita",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Room for Dreams",
         "distretto": "ArchitetturaArteConferenze, workshopInstallazioniME Milan Il Duca - Piazza della Repubblica, 1320-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.designboom.com/tag/room-for-dreams/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Chiedersì perché da Città del sole!",
-        "distretto": "Giochi, giocattoliInstallazioniProduct DesignCittà del sole - Via Stendhal 4720-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.cittadelsole.it/ita",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Chiedersì perché da Città del sole!",
-        "distretto": "Giochi, giocattoliInstallazioniProduct DesignCittà del sole - Via Canonica 8520-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.cittadelsole.it/ita",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Chiedersì perché da Città del sole!",
-        "distretto": "Giochi, giocattoliInstallazioniProduct DesignCittà del sole - L.go Settimio Severo 420-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.cittadelsole.it/ita",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Chiedersì perché da Città del sole!",
-        "distretto": "Giochi, giocattoliInstallazioniProduct DesignCittà del sole - Corso Garibaldi 1620-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.cittadelsole.it/ita",
         "accetta_fs_passport": true
     },
     {
@@ -5261,13 +4820,6 @@
         "distretto": "ArchitetturaArteEsterniInstallazioniProduct Designnhow Milano - via Tortona, 3520-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.nhow-hotels.com/it/nhow-milan",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Dos Mil Quatre-Cents Setanta Grams",
-        "distretto": "IlluminazioneMateriali specialiProduct DesignSostenibilitàCAP.A - Via Plinio, 3720-25 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.instagram.com/2470grams/",
         "accetta_fs_passport": true
     },
     {
@@ -5299,13 +4851,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "INTERNI presenta INTERNI & AUDI | MATERIAE",
-        "distretto": "EsterniInstallazioniMateriali specialiProduct DesignTecnologiaPortrait Milano - Corso Venezia, 1120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Kelly Wearstler H&M HOME",
         "distretto": "ArredoInstallazioniProduct DesignTessiliPalazzo Acerbi - Corso di Porta Romana, 3Link",
         "immagine": "",
@@ -5313,38 +4858,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "TOILETPAPER presenta TOILETWALTER PAPERCHANDOHA",
-        "distretto": "ArredoArteProduct DesignTessiliTOILETPAPER LIVING - via Balzaretti 821-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Jakub Berdych Karpelis & Karel Štědrý presentano INVENTARIUM",
-        "distretto": "ArredoArteInstallazioniMateriali specialiProduct DesignConsolato Generale della Repubblica Ceca - Via G. B Morgagni 2020-24 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Space by Lexus",
         "distretto": "ArteEsterniInstallazioniProduct DesignSuperstudio Più - Via Tortona 2720-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.lexus.it/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ELLE DECOR ITALIA presenta Elle Decor Sensory Landscape (with Piero Lissoni)",
-        "distretto": "ArredoIlluminazioneInstallazioniProduct DesignTessiliPalazzo Bovara - Corso Venezia, 5120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ELLEDECOR.IT presenta Elledecor.it Takeover “The Society of Objects” (with Davide Fabio Colaci)",
-        "distretto": "ArredoInstallazioniMateriali specialiProduct DesignTessiliCasa Slalom Acoustics - Via Rossini 3",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5359,20 +4876,6 @@
         "distretto": "ArredoArteMateriali specialiProduct DesignTorneria Tortona - Via Tortona 3020-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.dux.se/en-se",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Laboratorio del Perché! Al Centro Culturale Cinese",
-        "distretto": "ArteConferenze, workshopGraficaInstallazioniMateriali specialiCentro culturale cinese - Via Sarpi, 2626 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Home Fairy Home",
-        "distretto": "ArredoConferenze, workshopIlluminazioneInstallazioniProduct DesignPalazzo Lombardia - Piazza Città di Lombardia, 120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5394,13 +4897,6 @@
         "distretto": "ArteConferenze, workshopSostenibilitàPunto Luce Giambellino - Via Gentile Bellini 6Link",
         "immagine": "",
         "link_ufficiale": "https://www.savethechildren.it/cosa-facciamo/progetti/punto-luce-milano-giambellino",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Xinao Textiles \"The Art Of Yarn\" Art direction Pierluigi Fucci",
-        "distretto": "ArteInstallazioniProduct DesignTessiliCortile22 - Via San Maurilio 2220-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5429,13 +4925,6 @@
         "distretto": "ArteModa e gioielliPartyaster pilates - via Zambeletti 425-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "http://www.asterpilates.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Inaugurazione pop-up di Ecco",
-        "distretto": "Moda e gioielliPOP-UP ECCO - Via Borgogna, 521 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5485,13 +4974,6 @@
         "distretto": "ArredoTalenti Flagship Store - Via Alessandro Manzoni, 1120-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.talentispa.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "UPCYCLED BENCH. Nuova forma alla materia attraverso il riuso.",
-        "distretto": "ArredoCASCINA ROMANA - VIA GIUSEPPE SIRTORI 3420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5565,38 +5047,10 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "PROFILO by Andrew Vianello // FRAME",
-        "distretto": "InstallazioniProduct DesignLA VETRINA - Via Gorani, 8a20-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "VELOCEstudio presenta pausettaVELOCE",
-        "distretto": "ArchitetturaArredoEsterniProduct DesignWOK Store - Via Lecco, 2020-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Diatomee - Istallazione Luminosa di Riccardo Blumer",
         "distretto": "ArchitetturaArredoIlluminazioneInstallazioniPartySpazio Diaz - Piazza Diaz 521-25 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "http://www.spaziodiazmilano.com",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Diaz Design Party",
-        "distretto": "ArchitetturaArredoFood & beverageInstallazioniPartySpazio Diaz - Piazza Diaz 521-23 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "http://www.spaziodiazmilano.com",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "TOP - Tricolore Open Pages",
-        "distretto": "ArchitetturaConferenze, workshopInstallazioniProduct DesignTricolore Design Hub - Piazza del Tricolore 120-25 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://www.ghenos.net/tricolore-design-hub/",
         "accetta_fs_passport": true
     },
     {
@@ -5632,13 +5086,6 @@
         "distretto": "ArchitetturaArteInstallazioniMateriali specialiProduct DesignSpazio Fonte - via dei Fontanili 13, 20141 Milano MI20-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.instagram.com/spaziofonte/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Evento FURLA CASA 'BUBBLE UP'",
-        "distretto": "ArredoArteModa e gioielliPartyMilano Verticale | UNA Esperienze Hotel - Via Carlo De Cristoforis 620-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5681,20 +5128,6 @@
         "distretto": "ArchitetturaArredoArteCucinaInstallazioniOnlyONE Gallery - Via Pasquale Sottocorno, 420-25 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.onlyonegroup.it/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Guatemala diseña con las manos",
-        "distretto": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci - Via Olona, 6 bis20-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Slow Hand Design - Heritage Reimagined",
-        "distretto": "Superstudio Più - Via Tortona 2720-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5754,13 +5187,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Luna Park di Dixpari",
-        "distretto": "ArredoArteIlluminazioneSostenibilità10 Corso Como - Corso Como, 1021 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "https://dixpari.com/",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Su tela ogni passo -  mostra lancio del brand Ulakasha",
         "distretto": "ArteConferenze, workshopModa e gioielliProduct DesignTessiliCONCEPT STORE AURA - VIA FESTA DEL PERDONO 1021-26 Aprile  2026Link",
         "immagine": "",
@@ -5779,13 +5205,6 @@
         "distretto": "ArredoArteProduct DesignSostenibilitàTecnologiaMostra Artistica Linkuadro - Via Salvini, 223-25 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.linkuadro.com",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Human habitat opening - andcosta lighting con Martex e Adotta",
-        "distretto": "ArchitetturaIlluminazioneVia Vigevano 15 - Via Vigevano 1521-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5817,13 +5236,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Metalmorphosis Light Design for Regenerative Living",
-        "distretto": "ArchitetturaInstallazioniSostenibilitàTecnologiaPiazza San Babila - Piazza San Babila (Largo Arturo Toscanini)20-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "SEIKO POWER DESIGN PROJECT: PASSIONATELY AND OBSESSIVELY CRAFTED WATCHES",
         "distretto": "Moda e gioielliInstallazioniProduct DesignSeiko Milano Boutique - Via della Spiga 52, angolo Via Manzoni20-26 Aprile  2026Link",
         "immagine": "",
@@ -5842,20 +5254,6 @@
         "distretto": "ArchitetturaArredoEsterniSostenibilitàSwiss Corner - Piazza Cavour20-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.protezionisrl.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Eco&Tori",
-        "distretto": "Food & beverageSostenibilitàECO Srl - Via California 2421 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "\"Atlantico\" Fratelli Rossetti X Andrea Ghisoni",
-        "distretto": "ArredoModa e gioielliProduct DesignFratelli Rossetti - Corso Magenta 1721-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -5985,13 +5383,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Khanijo x Machapokè",
-        "distretto": "Moda e gioielliFood & beverageSostenibilitàMacha Caffé - Via Savona, 2520-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Gioiello Contemporaneo Contest",
         "distretto": "ArteModa e gioielliGalleria Rossini - viale Monte Nero, 5820-25 Aprile  2026Link",
         "immagine": "",
@@ -6079,7 +5470,7 @@
         "titolo": "Progettare le emozioni: UX nel kidswear",
         "distretto": "Conferenze, workshopGiochi, giocattoliProduct DesignSostenibilitàTessiliCrochette - Corso Garibaldi 4421 Aprile  2026Link",
         "immagine": "",
-        "link_ufficiale": "https://uxforkids.com/",
+        "link_ufficiale": "https://uxforkids.com/ux-in-kidswear/",
         "accetta_fs_passport": true
     },
     {
@@ -6132,13 +5523,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "Volkswagen x Italdesign: le possibilità di EV-design con la piattaforma MEB+",
-        "distretto": "Product DesignTecnologiaOpificio 31 // Fior di Tortona - Via Tortona, 3120-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "SPAZIO LENGO: Live Streaming, Art & Design Hub",
         "distretto": "ArteFood & beverageInstallazioniPartyProduct DesignSpazio Lengo - Via San Giuseppe Cottolengo 3221-26 Aprile  2026Link",
         "immagine": "",
@@ -6150,13 +5534,6 @@
         "distretto": "ArchitetturaArredoArteInstallazioniTessiliCasa Conte - via Monte Napoleone, 1820-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.contecasa.it/en/casa-conte/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ELEMENTI AUTOPROGETTANTI",
-        "distretto": "ArchitetturaArredoInstallazioniProduct DesignSostenibilitàHercole x M/Studio Architects - via savona 9723 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -6192,20 +5569,6 @@
         "distretto": "ArredoArteSostenibilitàPaula Seegy Gallery - Via San Maurilio 1420-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.absolutacollection.com/",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Semiofori: Obiecta Animata",
-        "distretto": "ArredoArteIlluminazioneBorgo di Baggio - via Ceriani20 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ÉCORCHÉ - Anatomia di un Mobile",
-        "distretto": "ArredoInstallazioniMateriali specialiProduct DesignSostenibilitàLe Cavallerizze - Via Olona 620-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -6248,13 +5611,6 @@
         "distretto": "ArchitetturaArredoEsterniFood & beverageProduct Designe/n enoteca naturale - Via Santa Croce, 19/a21-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://www.instagram.com/p/DXBqZAyCBG5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Unión.e presenta \"Un Encuentro íntimo de Diseño Sudamericano\"",
-        "distretto": "ArteModa e gioielliSostenibilitàAtelier Prato - Via San Nicolao 421-22 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
         "accetta_fs_passport": true
     },
     {
@@ -6342,34 +5698,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "“The Factory of Light” / Aesop",
-        "distretto": "Chiostro e sagrestia monumentale Chiesa Santa Maria del Carmine - Piazza del Carmine, 221-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "ALMA WATER - La stanza del mare / Sara Ricciardi",
-        "distretto": "Cavallerizze - Via Olona 420-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "CIMENTO®",
-        "distretto": "CONVEY BULDING - Via San Senatore 1020-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
-        "titolo": "Keep Your Bubble / SuperPlayground",
-        "distretto": "Superstudio Village - Via Michele Pericle Negrotto, 5920-26 Aprile  2026",
-        "immagine": "",
-        "link_ufficiale": "https://www.fuorisalone.it",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "IN EVERY LINE: The Weight of Waiting",
         "distretto": "ArteBagnoFood & beverageInstallazioniBARGATTO | Un altro Bar - Via Giovanni da Palestrina, 120-26 Aprile  2026Link",
         "immagine": "",
@@ -6405,13 +5733,6 @@
         "accetta_fs_passport": true
     },
     {
-        "titolo": "The Queen's Hat // Design, Fashion & Music",
-        "distretto": "ArchitetturaArredoIlluminazioneProduct DesignSostenibilitàPlinio il Giovane - via Enrico Cernuschi, 120-26 Aprile  2026Link",
-        "immagine": "",
-        "link_ufficiale": "http://www.plinioilgiovane.com",
-        "accetta_fs_passport": true
-    },
-    {
         "titolo": "Bestiario Universale: un dialogo tra Amazzonia, Antichi Telai e Feltri Moderni",
         "distretto": "ArredoArteTessiliGalleria David Sorgato - via Morigi 3, angolo via Sant'Orsola 1322 Aprile  2026Link",
         "immagine": "",
@@ -6423,6 +5744,258 @@
         "distretto": "ArchitetturaArredoInstallazioniProduct DesignSostenibilitàResidenza Vignale - Via Enrico Toti, 220-26 Aprile  2026Link",
         "immagine": "",
         "link_ufficiale": "https://omama.design/en-us",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Isola Design Gallery | Isola Design Festival 2026",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=F8MRI3MK&title=isola-design-gallery--mdw26&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "RASA — The Indian Collective | Isola Design Festival 2026",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=6GDQUXX1",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "No Space for Waste | Isola Design Festival 2026",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=LSYDMZ0B",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "The Dutch Atelier | Isola Design Festival 2026",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=2HRPE3AZ",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "SAUDI INDUSTRIAL DESIGN SHOWCASE",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=NRXJNRD9",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "LE LABO 1.0",
+        "distretto": "InstallazioniFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=080RZWYZ",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "MOCK UP JUNK LAB",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=F4Y4CA6P",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "LOCAL SHAPES | Design Kosova",
+        "distretto": "Product DesignFabbrica Sassetti - via Filippo Sassetti, 3120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=E2ZRBRVR",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Isola Design Awards Winners’ Showcase | Isola Design Festival 2026",
+        "distretto": "Product DesignCopernico Isola, S32 - Via Sassetti 3220-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=BFHR3ND2",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Rising Talents | Isola Design Festival 2026",
+        "distretto": "Product DesignZona K - Via spalato 1120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=CC10H702",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Archivi Futuri | Isola Design Festival 2026",
+        "distretto": "Product DesignZona K - Via spalato 1120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=V4LMUEZA",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Introducing GIOBAGNARA Art Edition - Martino Gamper · Gary Hume · Curated by Nick Vinson",
+        "distretto": "ArchitetturaArredoArteInstallazioniGiobagnara Art Edition - Via della Spiga, 3321-25 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "http://www. giobagnara.com",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Shape of Belonging | Isola Design Festival 2026",
+        "distretto": "Product DesignAtelier Kondakji - Via Civerchio, 220-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=1JWQC7BE",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Default Is Not Universal — The same design. Different perceptions | Isola Design Festival 2026",
+        "distretto": "Product DesignFondazione Riccardo Catella - Via Gaetano De Castillia, 2820-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=K7JSPFM4",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Oasi in città by Aura",
+        "distretto": "InstallazioniVia Gaetano de castillia, 23 - Via Gaetano de castillia, 2320-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=4HV33QY5&title=oasi-in-citta&event=MILAN-DESIGN-WEEK-2026-ISOLA-DESIGN-FESTIVAL-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Corpo by Northernlightcomposites and Scandurra Studio",
+        "distretto": "InstallazioniCopernico Isola, S32 - Via Sassetti 3220-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=HH41VEQN&title=corpo&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Maddie is in the air by MadeInAdd",
+        "distretto": "InstallazioniProduct DesignFondazione Riccardo Catella - Via Gaetano De Castillia, 2820-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=4XYZPWX7&title=maddie-is-in-the-air&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "THE SHAPE OF COMFORT",
+        "distretto": "ArredoEsterniFlagship Store Calia Italia - Via Molino delle Armi, 4920-25 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "http://www.caliaitalia.com",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Set the tone of your hike with Salewa | Live DJ set by Godblesscomputers for those who move, explore, and don't follow the usual path.",
+        "distretto": "PartyProduct DesignSalewa Store - Corso Garibaldi, 5923 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.salewa.com/it-it/set-the-tone-of-your-hike",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "AlgrantiLAB open studio",
+        "distretto": "Product DesignAlgrantiLAB - via Pastrengo 2320-24 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=41JMZ2BS&title=algrantilab-open-studio&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "THE COLOR DISTRICT",
+        "distretto": "ArchitetturaArteInstallazioniMateriali specialiTecnologiaL'Artiglio - Alzaia Naviglio Grande 10822-23 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.eventbrite.com/e/biglietti-the-color-district-milano-design-week-2026-1986153032185?aff=paginaFuorisalone",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Casa OZ - vivere tra i grattacieli",
+        "distretto": "ArchitetturaArredoProduct DesignSostenibilitàCasa OZ - via Gaetano de Castillia, 2421-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://ozinteriors.it/casaoz",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "From Matter to Meaning | Brussels House",
+        "distretto": "Product DesignBrussels House - Via Gaetano de Castillia, 2320-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=SULB4GBZ&title=from-matter-to-meaning&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "UNTETHERED | Ciam Spa",
+        "distretto": "InstallazioniCiam Milano - Via Pastrengo, 1220-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=R8Y728TG&title=untethered&event=MILAN-DESIGN-WEEK-2026-ISOLA-DESIGN-FESTIVAL-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "RADICA STUDIO - VIZIOSA",
+        "distretto": "ArredoModa e gioielliALEF CORNER - Via Novati, 223-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://radicastudio.online/",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Ernestoshop Concept Store",
+        "distretto": "Product DesignErnestoShop - via Antonio Pollaiuolo, 320-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=PUH0SFYX&title=ernestoshop744&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Into the wood | Green Island",
+        "distretto": "Product DesignFlying Tiger Stazione Garibaldi Milano - Piazza Freud, 120-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=QR8JPGDX&title=into-the-wood&event=MILAN-DESIGN-WEEK-2026-ISOLA-DESIGN-FESTIVAL-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Punto, linea, superficie - Truly Design | Bravery Bar NIMI 2026",
+        "distretto": "EsterniProduct DesignFondazione Riccardo Catella - Via Gaetano De Castillia, 2820-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=9C9SWIIX&title=punto-linea-superficie--truly-design--bravery-bar-nimi-2026&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "casa OZ - Living in the middle of skyscrapers",
+        "distretto": "ArchitetturaCasa OZ - via Gaetano de Castillia, 2420-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=LNQ4JS8K&title=casa-oz--living-in-the-middle-of-skyscrapers&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "RivaViva trasforma il Legno in Architettura del Benessere",
+        "distretto": "ArchitetturaProduct DesignRivaViva - Via L. Porro Lambertenghi 1820-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://isola.design/event?eventGK=F0WS1432&title=rivaviva-trasforma-il-legno-in-architettura-del-benessere-&event=ISOLA-DESIGN-FESTIVAL-2026-MILAN-DESIGN-WEEK-2026",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Experience design x Milano MOMS",
+        "distretto": "ArteConferenze, workshopGiochi, giocattoliInstallazioniMateriali specialiVia Voghera, lato opposto civ. 4 - Via Voghera, di fronte civ. 425-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.radiomamma.it/eventi-bambini-famiglie-milano/experience-design-laboratori-e-attivita-i-bambini-al-fuori-salone",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "MISSIONE BUIO — il diario dedicato all’Oscurità per piccole e piccoli Esploratori",
+        "distretto": "ArteConferenze, workshopGiochi, giocattoliGraficaBASE Milano - Via Bergognone 3426 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://dice.fm/event/wwd8yx-missione-buio-il-diario-dedicato-alloscurit-per-piccole-e-piccoli-esploratori-26th-apr-base-milano-milano-tickets",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Rugby, Orti, Attività Kids!",
+        "distretto": "Conferenze, workshopBAM (Biblioteca degli Alberi Milano) - Via G. de Castillia 2820-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.lastecca.org/activities/rugby-per-bambi/",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "SOU Milano x Sony - Laboratorio per Bambini",
+        "distretto": "SOU Milano - Corso Garibaldi 27Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.sou-schools.com/courses/sou-milano/",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "Il Saloncino Young Folks",
+        "distretto": "ArteGiochi, giocattoliMateriali specialiYoung Folks - Via Podgora 1625-26 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://youngfolks.it/calendario/",
+        "accetta_fs_passport": true
+    },
+    {
+        "titolo": "AMBIENTARTI VII",
+        "distretto": "ArredoArteModa e gioielliSostenibilitàTessiliGaleria iKonica - via Nicola Antonio Porpora 16/A, Milano20-25 Aprile  2026Link",
+        "immagine": "",
+        "link_ufficiale": "https://www.artspacemilano.com/portfolio/ambientarti-vii/",
         "accetta_fs_passport": true
     }
 ]
