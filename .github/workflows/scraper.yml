@@ -1,15 +1,13 @@
-name: Estrai Eventi Fuorisalone
+name: Estrai Eventi e Invia API
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Si avvia ogni notte alle 03:00 (Orario Server)
-  workflow_dispatch: # Questo ci permette di avviarlo manualmente con un bottone!
+    - cron: '0 3 * * *' 
+  workflow_dispatch:
 
 jobs:
   aggiorna-dati:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Permette a GitHub di salvare i file creati
 
     steps:
       - name: Scarica il codice
@@ -22,16 +20,11 @@ jobs:
 
       - name: Installa le librerie
         run: |
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 playwright
           playwright install chromium
 
-      - name: Lancia lo Scraper
+      - name: Lancia lo Scraper e invia dati a Supabase
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: python scraper.py
-
-      - name: Salva il JSON aggiornato nel repository
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'action@github.com'
-          git add eventi_design_week_2026.json
-          git commit -m "Aggiornamento automatico eventi" || echo "Nessun nuovo evento"
-          git push
