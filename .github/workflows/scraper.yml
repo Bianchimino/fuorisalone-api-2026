@@ -28,11 +28,10 @@ jobs:
       - name: Lancia lo Scraper
         run: python scraper.py
 
-      - name: Salva i file aggiornati nel repository
+      - name: Salva il JSON aggiornato nel repository
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'action@github.com'
           git add eventi_design_week_2026.json
-          git add debug_foto.png
-          git commit -m "Salvataggio dati e foto investigativa" || echo "Nessun nuovo evento da aggiornare"
+          git commit -m "Aggiornamento automatico eventi" || echo "Nessun nuovo evento"
           git push
