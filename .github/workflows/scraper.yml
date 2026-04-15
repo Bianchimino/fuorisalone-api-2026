@@ -20,7 +20,7 @@ jobs:
 
       - name: Installa le librerie
         run: |
-          pip install requests beautifulsoup4 playwright
+          pip install requests beautifulsoup4 playwright geopy
           playwright install chromium
 
       - name: Lancia lo Scraper e invia dati a Supabase
