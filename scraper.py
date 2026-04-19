@@ -4,7 +4,6 @@ import time
 import re
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-from geopy.geocoders import Nominatim # THE FREE GEOCODER
 
 def estrai_e_invia():
     webhook_url = os.environ.get("WEBHOOK_URL")
@@ -18,10 +17,7 @@ def estrai_e_invia():
     eventi_salvati = []
     link_visti = set() 
     
-    # Initialize the free geocoder
-    geolocator = Nominatim(user_agent="milan_design_week_bot")
-    
-    print("🚀 Starting Scraper with FREE Geocoding...")
+    print("🚀 Starting Fast Scraper (Data extraction only)...")
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -88,36 +84,14 @@ def estrai_e_invia():
                     except:
                         pass 
 
-                    # --- FREE GEOCODING LOGIC ---
-                    lat, lng = None, None
-                    if sottotitolo:
-                        # Extract the address part (often after a hyphen)
-                        address_part = sottotitolo.split("-")[-1].strip() if "-" in sottotitolo else sottotitolo
-                        # Clean up any bullet points
-                        address_part = address_part.split("•")[0].strip()
-                        
-                        search_query = f"{address_part}, Milano, Italy"
-                        try:
-                            location = geolocator.geocode(search_query, timeout=5)
-                            if location:
-                                lat = location.latitude
-                                lng = location.longitude
-                            # CRITICAL: OpenStreetMap requires 1 second delay between requests
-                            time.sleep(1.2) 
-                        except:
-                            time.sleep(1.2)
-                            pass
-                    # ----------------------------
-
                     evento = {
                         "titolo": titolo,
                         "distretto": sottotitolo,
                         "immagine": immagine,
                         "link_ufficiale": link_ufficiale,
                         "accetta_fs_passport": accetta_passport,
-                        "descrizione": descrizione,
-                        "lat": lat,  # Sending the coordinates!
-                        "lng": lng   # Sending the coordinates!
+                        "descrizione": descrizione
+                        # Abbiamo rimosso lat e lng da qui!
                     }
                     eventi_salvati.append(evento)
                     eventi_veri += 1
